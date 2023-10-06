@@ -1,2 +1,2 @@
-# codsoft_task-2
+# CODSOFT
 CODSOFT JAVA INTERNSHIP TASK-2
